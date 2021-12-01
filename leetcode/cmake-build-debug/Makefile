@@ -67,10 +67,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/ymkzpx/CLionProjects/leetcode
+CMAKE_SOURCE_DIR = /Users/ymkzpx/CLionProjects/Algorithm/leetcode
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -99,9 +99,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/CMakeFiles /Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/CMakeFiles /Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -323,6 +323,19 @@ ksB/fast:
 234/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/234.dir/build.make CMakeFiles/234.dir/build
 .PHONY : 234/fast
+
+#=============================================================================
+# Target rules for targets named 506
+
+# Build rule for target.
+506: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 506
+.PHONY : 506
+
+# fast build rule for target.
+506/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/506.dir/build.make CMakeFiles/506.dir/build
+.PHONY : 506/fast
 
 #=============================================================================
 # Target rules for targets named p1
@@ -990,6 +1003,33 @@ p3/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/488.dir/build.make CMakeFiles/488.dir/488.cpp.s
 .PHONY : 488.cpp.s
 
+506.o: 506.cpp.o
+
+.PHONY : 506.o
+
+# target to build an object file
+506.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/506.dir/build.make CMakeFiles/506.dir/506.cpp.o
+.PHONY : 506.cpp.o
+
+506.i: 506.cpp.i
+
+.PHONY : 506.i
+
+# target to preprocess a source file
+506.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/506.dir/build.make CMakeFiles/506.dir/506.cpp.i
+.PHONY : 506.cpp.i
+
+506.s: 506.cpp.s
+
+.PHONY : 506.s
+
+# target to generate assembly for a file
+506.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/506.dir/build.make CMakeFiles/506.dir/506.cpp.s
+.PHONY : 506.cpp.s
+
 5892.o: 5892.cpp.o
 
 .PHONY : 5892.o
@@ -1473,6 +1513,7 @@ help:
 	@echo "... 448"
 	@echo "... 476"
 	@echo "... 488"
+	@echo "... 506"
 	@echo "... 5892"
 	@echo "... Command_Sequence"
 	@echo "... bibi"
@@ -1538,6 +1579,9 @@ help:
 	@echo "... 488.o"
 	@echo "... 488.i"
 	@echo "... 488.s"
+	@echo "... 506.o"
+	@echo "... 506.i"
+	@echo "... 506.s"
 	@echo "... 5892.o"
 	@echo "... 5892.i"
 	@echo "... 5892.s"

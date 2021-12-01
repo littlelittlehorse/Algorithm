@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test_problem">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/test_problem" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/test_problem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -35,15 +35,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_problem"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_problem"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test_problem/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/test_problem" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/test_problem" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -59,15 +59,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_problem/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_problem/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="400">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/400" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/400" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -83,15 +83,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 400"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 400"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="400/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/400" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/400" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -107,15 +107,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 400/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 400/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="23">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/23" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -131,15 +131,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 23"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 23"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="23/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/23" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/23" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -155,25 +155,25 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 23/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 23/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="319">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/319" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/319" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -189,15 +189,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 319"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 319"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="319/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/319" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/319" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -213,15 +213,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 319/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 319/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="352">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/352" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/352" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -237,15 +237,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 352"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 352"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="352/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/352" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/352" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -261,15 +261,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 352/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 352/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lru">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/lru" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/lru" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -285,15 +285,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 lru"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 lru"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="lru/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/lru" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/lru" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -309,15 +309,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 lru/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 lru/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="187">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/187" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/187" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -333,15 +333,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 187"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 187"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="187/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/187" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/187" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -357,15 +357,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 187/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 187/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="273">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/273" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/273" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -381,15 +381,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 273"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 273"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="273/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/273" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/273" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -405,15 +405,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 273/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 273/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ksA">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/ksA" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/ksA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -429,15 +429,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 ksA"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 ksA"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ksA/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/ksA" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/ksA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -453,15 +453,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 ksA/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 ksA/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="414">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/414" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/414" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -477,15 +477,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 414"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 414"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="414/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/414" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/414" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -501,15 +501,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 414/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 414/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="488">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/488" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/488" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -525,15 +525,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 488"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 488"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="488/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/488" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/488" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -549,15 +549,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 488/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 488/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -573,15 +573,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="test/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -597,15 +597,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="5892">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/5892" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/5892" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -621,15 +621,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 5892"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 5892"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="5892/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/5892" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/5892" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -645,15 +645,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 5892/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 5892/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ksB">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/ksB" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/ksB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -669,15 +669,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 ksB"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 ksB"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ksB/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/ksB" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/ksB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -693,15 +693,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 ksB/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 ksB/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="234">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/234" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/234" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -717,15 +717,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 234"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 234"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="234/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/234" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/234" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -741,25 +741,73 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 234/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 234/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="506">
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/506" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/../../../../../../include/c++/4.9.4"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/../../../../../../include/c++/4.9.4/x86_64-apple-darwin17.7.0"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/../../../../../../include/c++/4.9.4/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/include"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/include-fixed"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 506"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="506/fast">
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/506" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/../../../../../../include/c++/4.9.4"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/../../../../../../include/c++/4.9.4/x86_64-apple-darwin17.7.0"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/../../../../../../include/c++/4.9.4/backward"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/include"/>
+					<Add directory="/usr/local/Cellar/gcc@4.9/4.9.4_2/lib/gcc/4.9/gcc/x86_64-apple-darwin17.7.0/4.9.4/include-fixed"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 506/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p1">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -775,15 +823,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p1"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p1"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p1/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -799,15 +847,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p1/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p1/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="446">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/446" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/446" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -823,15 +871,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 446"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 446"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="446/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/446" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/446" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -847,15 +895,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 446/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 446/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="169">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/169" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/169" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -871,15 +919,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 169"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 169"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="169/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/169" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/169" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -895,15 +943,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 169/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 169/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p6">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p6" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -919,15 +967,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p6"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p6"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p6/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p6" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -943,15 +991,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p6/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p6/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p5">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p5" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -967,15 +1015,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p5"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p5"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p5/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p5" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -991,15 +1039,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p5/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p5/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p5_">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p5_" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p5_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1015,15 +1063,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p5_"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p5_"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p5_/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p5_" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p5_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1039,15 +1087,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p5_/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p5_/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Command_Sequence">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Command_Sequence" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Command_Sequence" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1063,15 +1111,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Command_Sequence"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Command_Sequence"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Command_Sequence/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Command_Sequence" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Command_Sequence" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1087,15 +1135,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Command_Sequence/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Command_Sequence/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="434">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/434" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/434" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1111,15 +1159,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 434"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 434"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="434/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/434" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/434" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1135,15 +1183,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 434/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 434/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="new">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/new" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/new" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1159,15 +1207,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 new"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 new"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="new/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/new" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/new" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1183,15 +1231,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 new/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 new/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="476">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/476" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/476" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1207,15 +1255,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 476"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 476"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="476/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/476" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/476" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1231,15 +1279,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 476/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 476/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="448">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/448" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/448" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1255,15 +1303,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 448"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 448"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="448/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/448" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/448" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1279,15 +1327,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 448/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 448/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="20">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/20" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/20" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1303,15 +1351,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 20"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 20"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="20/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/20" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/20" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1327,15 +1375,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 20/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 20/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p4">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1351,15 +1399,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p4"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p4"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p4/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1375,15 +1423,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p4/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p4/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p2">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1399,15 +1447,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p2"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p2"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p2/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1423,15 +1471,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p2/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p2/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="bibi">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/bibi" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/bibi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1447,15 +1495,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 bibi"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 bibi"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="bibi/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/bibi" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/bibi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1471,15 +1519,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 bibi/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 bibi/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="283">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/283" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/283" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1495,15 +1543,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 283"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 283"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="283/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/283" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/283" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1519,15 +1567,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 283/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 283/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1543,15 +1591,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="main/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1567,15 +1615,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p3">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1591,15 +1639,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="p3/fast">
-				<Option output="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/p3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option output="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/p3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -1615,113 +1663,116 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 p3/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j12 -f &quot;/Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/169.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/169.cpp">
 			<Option target="169"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/187.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/187.cpp">
 			<Option target="187"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/20.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/20.cpp">
 			<Option target="20"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/23.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/23.cpp">
 			<Option target="23"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/234.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/234.cpp">
 			<Option target="234"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/273.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/273.cpp">
 			<Option target="273"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/283.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/283.cpp">
 			<Option target="283"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/319.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/319.cpp">
 			<Option target="319"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/352.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/352.cpp">
 			<Option target="352"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/400.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/400.cpp">
 			<Option target="400"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/414.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/414.cpp">
 			<Option target="414"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/434.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/434.cpp">
 			<Option target="434"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/446.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/446.cpp">
 			<Option target="446"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/448.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/448.cpp">
 			<Option target="448"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/476.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/476.cpp">
 			<Option target="476"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/488.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/488.cpp">
 			<Option target="488"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/5892.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/506.cpp">
+			<Option target="506"/>
+		</Unit>
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/5892.cpp">
 			<Option target="5892"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/Command_Sequence.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/Command_Sequence.cpp">
 			<Option target="Command_Sequence"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/bibi.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/bibi.cpp">
 			<Option target="bibi"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/ksA.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/ksA.cpp">
 			<Option target="ksA"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/ksB.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/ksB.cpp">
 			<Option target="ksB"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/lru.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/lru.cpp">
 			<Option target="lru"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/main.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/main.cpp">
 			<Option target="main"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/new.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/new.cpp">
 			<Option target="new"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/p1.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/p1.cpp">
 			<Option target="p1"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/p2.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/p2.cpp">
 			<Option target="p2"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/p3.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/p3.cpp">
 			<Option target="p3"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/p4.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/p4.cpp">
 			<Option target="p4"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/p5.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/p5.cpp">
 			<Option target="p5"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/p5_.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/p5_.cpp">
 			<Option target="p5_"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/p6.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/p6.cpp">
 			<Option target="p6"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/test.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/test.cpp">
 			<Option target="test"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/test_problem.cpp">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/test_problem.cpp">
 			<Option target="test_problem"/>
 		</Unit>
-		<Unit filename="/Users/ymkzpx/CLionProjects/leetcode/CMakeLists.txt">
+		<Unit filename="/Users/ymkzpx/CLionProjects/Algorithm/leetcode/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

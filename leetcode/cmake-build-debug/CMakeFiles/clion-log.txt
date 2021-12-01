@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/bin/gcc-4.9 -DCMAKE_CXX_COMPILER=/usr/local/bin/g++-4.9 -G "CodeBlocks - Unix Makefiles" /Users/ymkzpx/CLionProjects/leetcode
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/bin/gcc-4.9 -DCMAKE_CXX_COMPILER=/usr/local/bin/g++-4.9 -G "CodeBlocks - Unix Makefiles" /Users/ymkzpx/CLionProjects/Algorithm/leetcode
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/ymkzpx/CLionProjects/leetcode/cmake-build-debug
+-- Build files have been written to: /Users/ymkzpx/CLionProjects/Algorithm/leetcode/cmake-build-debug
