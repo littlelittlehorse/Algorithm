@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ymkzpx/CLionProjects/leetcode/Command_Sequence.cpp
+stdio.h
+-
+string.h
+-
+iostream
+-
+unordered_map
+-
+
