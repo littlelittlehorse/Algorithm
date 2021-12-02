@@ -3,6 +3,7 @@
 
 #cmake debug
 cmake-build*
+*idea
 
 # Compiled Object files
 *.slo
